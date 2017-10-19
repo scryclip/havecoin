@@ -7,11 +7,17 @@ HAV is dependent upon libsecp256k1 by sipa, the sources for which can be found h
 https://github.com/bitcoin/secp256k1
 
 Total POW: 1000 Blocks
+
 POS Reward: 3.5 HAV (HiPOS)
+
 Masternode reward: 80% of POS
+
 Block Spacing: 120 Seconds
+
 Diff Retarget: 9 Blocks
+
 Maturity: 10 Blocks
+
 Stake Minimum Age: 1 Hours
 
 5 MegaByte Maximum Block Size (5X Bitcoin Core)
