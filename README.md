@@ -18,6 +18,8 @@ Diff Retarget: 9 Blocks
 
 Maturity: 10 Blocks
 
+Max Supply: 10,000,000 HAV
+
 Stake Minimum Age: 1 Hours
 
 5 MegaByte Maximum Block Size (5X Bitcoin Core)
