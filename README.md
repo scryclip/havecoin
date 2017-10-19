@@ -25,6 +25,7 @@ Stake Minimum Age: 1 Hours
 5 MegaByte Maximum Block Size (5X Bitcoin Core)
 
 Port: 34787
+
 RPC Port: 34788
 
 Magic Bytes: 0x48 0x4d 0x43 0x57
