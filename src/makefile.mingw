@@ -10,15 +10,15 @@ BOOST_SUFFIX?=-mgw49-mt-s-1_57
 
 INCLUDEPATHS= \
  -I"$(CURDIR)" \
- -I"d:/project/harvest/include/boost-1_57" \
- -I"d:/project/harvest/include/miniupnpc" \
- -I"d:/project/harvest/include" \
- -I"d:/project/harvest"
+ -I"d:/project/havecoin/include/boost-1_57" \
+ -I"d:/project/havecoin/include/miniupnpc" \
+ -I"d:/project/havecoin/include" \
+ -I"d:/project/havecoin"
 
 LIBPATHS= \
  -L"$(CURDIR)/leveldb" \
- -L"d:/project/harvest/lib" \
- -L"d:/project/harvest"
+ -L"d:/project/havecoin/lib" \
+ -L"d:/project/havecoin"
 
 LIBS= \
  -l leveldb \
@@ -126,7 +126,7 @@ ifeq (${USE_WALLET}, 1)
         obj/walletdb.o
 endif
 
-all: harvestd.exe
+all: havecoind.exe
 
 LIBS += $(CURDIR)/leveldb/libleveldb.a $(CURDIR)/leveldb/libmemenv.a -l shlwapi
 DEFS += $(addprefix -I,$(CURDIR)/leveldb/include)
@@ -142,12 +142,12 @@ obj/%.o: %.cpp $(HEADERS)
 obj/%.o: %.c $(HEADERS)
 	$(CXX) -c $(CFLAGS) -fpermissive -o $@ $<
 
-harvestd.exe: $(OBJS:obj/%=obj/%)
+havecoind.exe: $(OBJS:obj/%=obj/%)
 	g++ $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 clean:
 	-rm -f obj/*.o
-	-rm -f harvestd.exe
+	-rm -f havecoind.exe
 	-rm -f obj/build.h
 	cd leveldb && TARGET_OS=NATIVE_WINDOWS $(MAKE) clean && cd ..
 

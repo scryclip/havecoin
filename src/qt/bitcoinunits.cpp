@@ -52,9 +52,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Harvests");
-    case mBTC: return QString("Milli-Harvests (1 / 1,000)");
-    case uBTC: return QString("Micro-Harvests (1 / 1,000,000)");
+    case BTC: return QString("Havecoins");
+    case mBTC: return QString("Milli-Havecoins (1 / 1,000)");
+    case uBTC: return QString("Micro-Havecoins (1 / 1,000,000)");
     default: return QString("???");
     }
 }

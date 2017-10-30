@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Harvest</source>
-        <translation>О Harvest</translation>
+        <source>About Havecoin</source>
+        <translation>О Havecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Harvest&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Harvest&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;Havecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Havecoin&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2015-2017 The Harvest developers</source>
+Copyright © 2015-2017 The Havecoin developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2015-2017 Разработчики Harvest</translation>
+Все права защищены © 2015-2017 Разработчики Havecoin</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,7 +60,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Harvest addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Havecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Harvest address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Harvest</translation>
+        <source>Sign a message to prove you own a Havecoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом Havecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Harvest address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Harvest</translation>
+        <source>Verify a message to ensure it was signed with a specified Havecoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Havecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,7 +258,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Harvest will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>Havecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Harvest</source>
-        <translation>Показать информацию о Harvest&apos;е</translation>
+        <source>Show information about Havecoin</source>
+        <translation>Показать информацию о Havecoin&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Harvest address</source>
-        <translation>Отправить монеты на указанный адрес Harvest</translation>
+        <source>Send coins to a Havecoin address</source>
+        <translation>Отправить монеты на указанный адрес Havecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Harvest</source>
-        <translation>Изменить параметры конфигурации Harvest</translation>
+        <source>Modify configuration options for Havecoin</source>
+        <translation>Изменить параметры конфигурации Havecoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>Harvest</source>
-        <translation>Harvest</translation>
+        <source>Havecoin</source>
+        <translation>Havecoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Harvest</source>
-        <translation>&amp;О Harvest</translation>
+        <source>&amp;About Havecoin</source>
+        <translation>&amp;О Havecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,12 +500,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Harvest client</source>
-        <translation>Harvest клиент</translation>
+        <source>Havecoin client</source>
+        <translation>Havecoin клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Harvest network</source>
+        <source>%n active connection(s) to Havecoin network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -600,8 +600,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Harvest address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Harvest или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Havecoin address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Havecoin или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Harvest can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. Harvest не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. Havecoin can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. Havecoin не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1043,8 +1043,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Harvest address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным Harvest-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Havecoin address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным Havecoin-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1062,8 +1062,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Harvest-Qt</source>
-        <translation>Harvest-Qt</translation>
+        <source>Havecoin-Qt</source>
+        <translation>Havecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1135,13 +1135,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Harvest after logging in to the system.</source>
-        <translation>Автоматически запускать Harvest после входа в систему</translation>
+        <source>Automatically start Havecoin after logging in to the system.</source>
+        <translation>Автоматически запускать Havecoin после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Harvest on system login</source>
-        <translation>&amp;Запускать Harvest при входе в систему</translation>
+        <source>&amp;Start Havecoin on system login</source>
+        <translation>&amp;Запускать Havecoin при входе в систему</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1150,8 +1150,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Harvest client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для Harvest-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the Havecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для Havecoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1160,8 +1160,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Harvest network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети Harvest через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the Havecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети Havecoin через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1235,8 +1235,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Harvest.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Harvest.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Havecoin.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Havecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1302,8 +1302,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Harvest.</source>
-        <translation>Эта настройка вступит в силу после перезапуска Harvest</translation>
+        <source>This setting will take effect after restarting Havecoin.</source>
+        <translation>Эта настройка вступит в силу после перезапуска Havecoin</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1321,8 +1321,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Harvest network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Harvest после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Havecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Havecoin после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1563,8 +1563,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Harvest-Qt help message to get a list with possible Harvest command-line options.</source>
-        <translation>Показать помощь по Harvest-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the Havecoin-Qt help message to get a list with possible Havecoin command-line options.</source>
+        <translation>Показать помощь по Havecoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1583,13 +1583,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Harvest - Debug window</source>
-        <translation>Harvest - Окно отладки</translation>
+        <source>Havecoin - Debug window</source>
+        <translation>Havecoin - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Harvest Core</source>
-        <translation>Ядро Harvest</translation>
+        <source>Havecoin Core</source>
+        <translation>Ядро Havecoin</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1598,8 +1598,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Harvest debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл Harvest из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the Havecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл Havecoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1608,8 +1608,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Harvest RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль Harvest.</translation>
+        <source>Welcome to the Havecoin RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль Havecoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1802,8 +1802,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Harvest address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите Harvest-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Havecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите Havecoin-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1902,7 +1902,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Harvest address</source>
+        <source>WARNING: Invalid Havecoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1976,8 +1976,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Harvest address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите Harvest-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Havecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите Havecoin-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2037,8 +2037,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Harvest address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Harvest</translation>
+        <source>Sign the message to prove you own this Havecoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом Havecoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2069,8 +2069,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Harvest address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Harvest</translation>
+        <source>Verify the message to ensure it was signed with the specified Havecoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Havecoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2080,8 +2080,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Harvest address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите адрес Harvest (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Havecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите адрес Havecoin (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2090,8 +2090,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Harvest signature</source>
-        <translation>Введите подпись Harvest</translation>
+        <source>Enter Havecoin signature</source>
+        <translation>Введите подпись Havecoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2669,7 +2669,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Harvest version</source>
+        <source>Havecoin version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2679,8 +2679,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or harvestd</source>
-        <translation>Отправить команду на -server или harvestd</translation>
+        <source>Send command to -server or havecoind</source>
+        <translation>Отправить команду на -server или havecoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2700,13 +2700,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: harvest.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: harvest.conf)</translation>
+        <source>Specify configuration file (default: havecoin.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: havecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: harvestd.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: harvestd.pid)</translation>
+        <source>Specify pid file (default: havecoind.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: havecoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2723,13 +2723,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=harvestrpc
+rpcuser=havecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Havecoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2835,8 +2835,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Harvest will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Harvest будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Havecoin will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Havecoin будет работать некорректно.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3142,7 +3142,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. Harvest is shutting down.</source>
+        <source>Initialization sanity check failed. Havecoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3207,13 +3207,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Harvest</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Harvest</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Havecoin</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Havecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Harvest to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите Harvest для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart Havecoin to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите Havecoin для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3277,8 +3277,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. Harvest is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Harvest уже работает.</translation>
+        <source>Unable to bind to %s on this computer. Havecoin is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Havecoin уже работает.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3317,7 +3317,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Harvest is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Havecoin is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>

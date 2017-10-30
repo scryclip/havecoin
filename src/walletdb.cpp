@@ -368,7 +368,7 @@ ReadKeyValue(CWallet* pwallet, CDataStream& ssKey, CDataStream& ssValue,
         {
             string strAddress;
             ssKey >> strAddress;
-            ssValue >> pwallet->mapAddressBook[CHarvestcoinAddress(strAddress).Get()];
+            ssValue >> pwallet->mapAddressBook[CHavecoinAddress(strAddress).Get()];
         }
         else if (strType == "tx")
         {
@@ -738,7 +738,7 @@ DBErrors CWalletDB::LoadWallet(CWallet* pwallet)
 void ThreadFlushWalletDB(const string& strFile)
 {
     // Make this thread recognisable as the wallet flushing thread
-    RenameThread("harvest-wallet");
+    RenameThread("havecoin-wallet");
 
     static bool fOneThread;
     if (fOneThread)

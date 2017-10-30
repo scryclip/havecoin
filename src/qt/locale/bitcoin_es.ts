@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Harvest</source>
-        <translation>Acerca de Harvest</translation>
+        <source>About Havecoin</source>
+        <translation>Acerca de Havecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Harvest&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Harvest&lt;/b&gt; versión</translation>
+        <source>&lt;b&gt;Havecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Havecoin&lt;/b&gt; versión</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2015-2017 The Harvest developers</source>
+Copyright © 2015-2017 The Havecoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2015-2017 The Harvest developers</translation>
+Copyright © 2015-2017 The Havecoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Harvest addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son las direcciones de Harvest para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
+        <source>These are your Havecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son las direcciones de Havecoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Harvest address</source>
-        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de Harvest</translation>
+        <source>Sign a message to prove you own a Havecoin address</source>
+        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de Havecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Harvest address</source>
-        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de Harvest</translation>
+        <source>Verify a message to ensure it was signed with a specified Havecoin address</source>
+        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de Havecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Harvest will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Harvest cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <source>Havecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Havecoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Harvest</source>
-        <translation>Mostrar información sobre Harvest</translation>
+        <source>Show information about Havecoin</source>
+        <translation>Mostrar información sobre Havecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Harvest address</source>
-        <translation>Enviar monedas a una dirección de Harvest</translation>
+        <source>Send coins to a Havecoin address</source>
+        <translation>Enviar monedas a una dirección de Havecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Harvest</source>
-        <translation>Modificar las opciones de configuración para Harvest</translation>
+        <source>Modify configuration options for Havecoin</source>
+        <translation>Modificar las opciones de configuración para Havecoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>Harvest</source>
-        <translation>Harvest</translation>
+        <source>Havecoin</source>
+        <translation>Havecoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Harvest</source>
-        <translation>Acerca de Harvest</translation>
+        <source>&amp;About Havecoin</source>
+        <translation>Acerca de Havecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Harvest client</source>
-        <translation>Cliente Harvest</translation>
+        <source>Havecoin client</source>
+        <translation>Cliente Havecoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Harvest network</source>
-        <translation><numerusform>%n conexión activa a la red Harvest</numerusform><numerusform>%n conexiones activas a la red Harvest</numerusform></translation>
+        <source>%n active connection(s) to Havecoin network</source>
+        <translation><numerusform>%n conexión activa a la red Havecoin</numerusform><numerusform>%n conexiones activas a la red Havecoin</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Dirección: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Harvest address or malformed URI parameters.</source>
-        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de Harvest no válida o parámetros de URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Havecoin address or malformed URI parameters.</source>
+        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de Havecoin no válida o parámetros de URI malformados.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Harvest can no longer continue safely and will quit.</source>
-        <translation>Se ha producido un error fatal. Harvest ya no puede continuar de forma segura y cerrará.</translation>
+        <source>A fatal error occurred. Havecoin can no longer continue safely and will quit.</source>
+        <translation>Se ha producido un error fatal. Havecoin ya no puede continuar de forma segura y cerrará.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Harvest address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de Harvest.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Havecoin address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de Havecoin.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Harvest-Qt</source>
-        <translation>Harvest-Qt</translation>
+        <source>Havecoin-Qt</source>
+        <translation>Havecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Harvest after logging in to the system.</source>
-        <translation>Iniciar Harvest automáticamente después de entrar en el sistema.</translation>
+        <source>Automatically start Havecoin after logging in to the system.</source>
+        <translation>Iniciar Havecoin automáticamente después de entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Harvest on system login</source>
-        <translation>&amp;Iniciar Harvest al inicio del sistema</translation>
+        <source>&amp;Start Havecoin on system login</source>
+        <translation>&amp;Iniciar Havecoin al inicio del sistema</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Harvest client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto de cliente Harvest en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the Havecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto de cliente Havecoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1174,8 +1174,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Harvest network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conéctese a la red de Harvest a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
+        <source>Connect to the Havecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conéctese a la red de Havecoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,8 +1249,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Harvest.</source>
-        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar Harvest.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Havecoin.</source>
+        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar Havecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1316,8 +1316,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Harvest.</source>
-        <translation>Esta configuración se aplicará después de reiniciar Harvest.</translation>
+        <source>This setting will take effect after restarting Havecoin.</source>
+        <translation>Esta configuración se aplicará después de reiniciar Havecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Harvest network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red Harvest después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Havecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red Havecoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1577,8 +1577,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Harvest-Qt help message to get a list with possible Harvest command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de Harvest-Qt para obtener una lista con las posibles opciones de línea de comandos para Harvest.</translation>
+        <source>Show the Havecoin-Qt help message to get a list with possible Havecoin command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de Havecoin-Qt para obtener una lista con las posibles opciones de línea de comandos para Havecoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1597,13 +1597,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Harvest - Debug window</source>
-        <translation>Harvest - Ventana de depuración</translation>
+        <source>Havecoin - Debug window</source>
+        <translation>Havecoin - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Harvest Core</source>
-        <translation>Núcleo Harvest</translation>
+        <source>Havecoin Core</source>
+        <translation>Núcleo Havecoin</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,8 +1612,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Harvest debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abre el archivo de registro de Harvest del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
+        <source>Open the Havecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abre el archivo de registro de Havecoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1622,8 +1622,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Harvest RPC console.</source>
-        <translation>Bienvenido a la consola RPC de Harvest</translation>
+        <source>Welcome to the Havecoin RPC console.</source>
+        <translation>Bienvenido a la consola RPC de Havecoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,8 +1816,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Harvest address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección Harvest (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Havecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección Havecoin (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1916,8 +1916,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Harvest address</source>
-        <translation>ADVERTENCIA: Dirección Harvest inválida</translation>
+        <source>WARNING: Invalid Havecoin address</source>
+        <translation>ADVERTENCIA: Dirección Havecoin inválida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1990,8 +1990,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Harvest address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección Harvest (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Havecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección Havecoin (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2051,8 +2051,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Harvest address</source>
-        <translation>Firma el mensaje para demostrar que posees esta dirección Harvest.</translation>
+        <source>Sign the message to prove you own this Havecoin address</source>
+        <translation>Firma el mensaje para demostrar que posees esta dirección Havecoin.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2083,8 +2083,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Harvest address</source>
-        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección Harvest especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Havecoin address</source>
+        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección Havecoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2094,8 +2094,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Harvest address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección Harvest (p.ej B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Havecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección Havecoin (p.ej B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2104,8 +2104,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Harvest signature</source>
-        <translation>Introduce la firma Harvest</translation>
+        <source>Enter Havecoin signature</source>
+        <translation>Introduce la firma Havecoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2683,8 +2683,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Harvest version</source>
-        <translation>versión Harvest</translation>
+        <source>Havecoin version</source>
+        <translation>versión Havecoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2693,8 +2693,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or harvestd</source>
-        <translation>Envía un comando a -server o harvestd</translation>
+        <source>Send command to -server or havecoind</source>
+        <translation>Envía un comando a -server o havecoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2716,13 +2716,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: harvest.conf)</source>
-        <translation>Especifica un archivo de configuración (por defecto: harvest.conf)</translation>
+        <source>Specify configuration file (default: havecoin.conf)</source>
+        <translation>Especifica un archivo de configuración (por defecto: havecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: harvestd.pid)</source>
-        <translation>Especifica un archivo pid (por defecto: harvestd.pid)</translation>
+        <source>Specify pid file (default: havecoind.pid)</source>
+        <translation>Especifica un archivo pid (por defecto: havecoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2739,13 +2739,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=harvestrpc
+rpcuser=havecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Havecoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2854,8 +2854,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Harvest will not work properly.</source>
-        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo Harvest no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Havecoin will not work properly.</source>
+        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo Havecoin no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3168,7 +3168,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. Harvest is shutting down.</source>
+        <source>Initialization sanity check failed. Havecoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3234,13 +3234,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Harvest</source>
-        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de Harvest</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Havecoin</source>
+        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de Havecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Harvest to complete</source>
-        <translation>El monedero necesita ser reescrito: reinicie Harvest para completar</translation>
+        <source>Wallet needed to be rewritten: restart Havecoin to complete</source>
+        <translation>El monedero necesita ser reescrito: reinicie Havecoin para completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3304,8 +3304,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. Harvest is probably already running.</source>
-        <translation>No se puede enlazar a %s en este equipo. Harvest probablemente ya esté en funcionamiento.</translation>
+        <source>Unable to bind to %s on this computer. Havecoin is probably already running.</source>
+        <translation>No se puede enlazar a %s en este equipo. Havecoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3344,7 +3344,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Harvest is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Havecoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

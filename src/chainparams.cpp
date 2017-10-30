@@ -114,16 +114,16 @@ public:
         base58Prefixes[EXT_PUBLIC_KEY] = list_of(0x03)(0x88)(0xC3)(0x2E).convert_to_container<std::vector<unsigned char> >();
         base58Prefixes[EXT_SECRET_KEY] = list_of(0x03)(0x88)(0xD3)(0xE2).convert_to_container<std::vector<unsigned char> >();
 
-        vSeeds.push_back(CDNSSeedData("0",  "seed0.harvestcoin.co"));
-        vSeeds.push_back(CDNSSeedData("1",  "seed1.harvestcoin.co"));
-        vSeeds.push_back(CDNSSeedData("2",  "seed2.harvestcoin.co"));
-        vSeeds.push_back(CDNSSeedData("3",  "seed3.harvestcoin.co"));
-        vSeeds.push_back(CDNSSeedData("4",  "seed4.harvestcoin.co"));
-        vSeeds.push_back(CDNSSeedData("5",  "seed5.harvestcoin.co"));
-        vSeeds.push_back(CDNSSeedData("6",  "seed6.harvestcoin.co"));
-        vSeeds.push_back(CDNSSeedData("7",  "seed7.harvestcoin.co"));
-        vSeeds.push_back(CDNSSeedData("8",  "seed8.harvestcoin.co"));
-        vSeeds.push_back(CDNSSeedData("9",  "seed9.harvestcoin.co"));
+        vSeeds.push_back(CDNSSeedData("0",  "seed0.havecoin.co"));
+        vSeeds.push_back(CDNSSeedData("1",  "seed1.havecoin.co"));
+        vSeeds.push_back(CDNSSeedData("2",  "seed2.havecoin.co"));
+        vSeeds.push_back(CDNSSeedData("3",  "seed3.havecoin.co"));
+        vSeeds.push_back(CDNSSeedData("4",  "seed4.havecoin.co"));
+        vSeeds.push_back(CDNSSeedData("5",  "seed5.havecoin.co"));
+        vSeeds.push_back(CDNSSeedData("6",  "seed6.havecoin.co"));
+        vSeeds.push_back(CDNSSeedData("7",  "seed7.havecoin.co"));
+        vSeeds.push_back(CDNSSeedData("8",  "seed8.havecoin.co"));
+        vSeeds.push_back(CDNSSeedData("9",  "seed9.havecoin.co"));
         convertSeeds(vFixedSeeds, pnSeed, ARRAYLEN(pnSeed), nDefaultPort);
 
         nPoolMaxTransactions = 3;

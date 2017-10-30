@@ -52,12 +52,12 @@ bool AppInit(int argc, char* argv[])
         if (mapArgs.count("-?") || mapArgs.count("--help"))
         {
             // First part of help message is specific to bitcoind / RPC client
-            std::string strUsage = _("Harvest version") + " " + FormatFullVersion() + "\n\n" +
+            std::string strUsage = _("Havecoin version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  harvestd [options]                     " + "\n" +
-                  "  harvestd [options] <command> [params]  " + _("Send command to -server or harvestd") + "\n" +
-                  "  harvestd [options] help                " + _("List commands") + "\n" +
-                  "  harvestd [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  havecoind [options]                     " + "\n" +
+                  "  havecoind [options] <command> [params]  " + _("Send command to -server or havecoind") + "\n" +
+                  "  havecoind [options] help                " + _("List commands") + "\n" +
+                  "  havecoind [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage();
 
@@ -67,7 +67,7 @@ bool AppInit(int argc, char* argv[])
 
         // Command-line RPC
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "harvest:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "havecoin:"))
                 fCommandLine = true;
 
         if (fCommandLine)

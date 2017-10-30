@@ -77,7 +77,7 @@ bool fLiteMode = false;
 bool fEnableInstantX = true;
 int nInstantXDepth = 10;
 int nDarksendRounds = 2;
-int nAnonymizeHarvestAmount = 1000;
+int nAnonymizeHavecoinAmount = 1000;
 int nLiquidityProvider = 0;
 /** Spork enforcement enabled time */
 int64_t enforceMasternodePaymentsTime = 4085657524;
@@ -1041,7 +1041,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "harvest";
+    const char* pszModule = "havecoin";
 #endif
     if (pex)
         return strprintf(
@@ -1071,13 +1071,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Harvest
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Harvest
-    // Mac: ~/Library/Application Support/Harvest
-    // Unix: ~/.harvest
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Havecoin
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Havecoin
+    // Mac: ~/Library/Application Support/Havecoin
+    // Unix: ~/.havecoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "Harvest";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "Havecoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -1089,10 +1089,10 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "Harvest";
+    return pathRet / "Havecoin";
 #else
     // Unix
-    return pathRet / ".harvest";
+    return pathRet / ".havecoin";
 #endif
 #endif
 }
@@ -1141,7 +1141,7 @@ void ClearDatadirCache()
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "harvest.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "havecoin.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
@@ -1186,7 +1186,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "harvestd.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "havecoind.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }

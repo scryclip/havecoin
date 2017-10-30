@@ -3,27 +3,27 @@
 <plist version="0.9">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>harvest.icns</string>
+	<string>havecoin.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Harvest-Qt</string>
+	<string>Havecoin-Qt</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Harvest-Qt</string>
+	<string>Havecoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>co.harvest.Harvest-Qt</string>
+	<string>co.havecoin.Havecoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>co.harvest.HarvestPayment</string>
+            <string>co.havecoin.HavecoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>harvest</string>
+              <string>havecoin</string>
             </array>
           </dict>
         </array>

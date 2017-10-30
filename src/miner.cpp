@@ -528,7 +528,7 @@ void ThreadStakeMiner(CWallet *pwallet)
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
 
     // Make this thread recognisable as the mining thread
-    RenameThread("harvest-miner");
+    RenameThread("havecoin-miner");
 
     CReserveKey reservekey(pwallet);
 

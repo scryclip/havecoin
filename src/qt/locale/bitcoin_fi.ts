@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Harvest</source>
-        <translation>Tietoa Harvestista</translation>
+        <source>About Havecoin</source>
+        <translation>Tietoa Havecoinista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Harvest&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Harvest&lt;/b&gt;-asiakasohjelman versio</translation>
+        <source>&lt;b&gt;Havecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Havecoin&lt;/b&gt;-asiakasohjelman versio</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2015-2017 The Harvest developers</source>
+Copyright © 2015-2017 The Havecoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2015-2017 The Harvest developers</translation>
+Copyright © 2015-2017 The Havecoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Harvest addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat Harvest-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
+        <source>These are your Havecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat Havecoin-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -81,8 +81,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Harvest address</source>
-        <translation>Allekirjoita viesti osoittaaksesi Harvest-osoitteesi omistajuus</translation>
+        <source>Sign a message to prove you own a Havecoin address</source>
+        <translation>Allekirjoita viesti osoittaaksesi Havecoin-osoitteesi omistajuus</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Harvest address</source>
-        <translation>Vahvista viesti varmistaaksesi että kyseinen Harvest-osoitteesi on allekirjoittanut sen</translation>
+        <source>Verify a message to ensure it was signed with a specified Havecoin address</source>
+        <translation>Vahvista viesti varmistaaksesi että kyseinen Havecoin-osoitteesi on allekirjoittanut sen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,8 +264,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+82"/>
-        <source>Harvest will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Harvest-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
+        <source>Havecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Havecoin-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -358,8 +358,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Harvest</source>
-        <translation>Näytä tietoja Harvestista</translation>
+        <source>Show information about Havecoin</source>
+        <translation>Näytä tietoja Havecoinista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -398,12 +398,12 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Harvest address</source>
-        <translation>Lähetä varoja Harvest-osoitteeseen</translation>
+        <source>Send coins to a Havecoin address</source>
+        <translation>Lähetä varoja Havecoin-osoitteeseen</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Harvest</source>
+        <source>Modify configuration options for Havecoin</source>
         <translation>Mukauta asiakasohjelman asetuksia</translation>
     </message>
     <message>
@@ -444,8 +444,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>Harvest</source>
-        <translation>Harvest</translation>
+        <source>Havecoin</source>
+        <translation>Havecoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -454,8 +454,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Harvest</source>
-        <translation>&amp;Tietoa Harvestista</translation>
+        <source>&amp;About Havecoin</source>
+        <translation>&amp;Tietoa Havecoinista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -506,13 +506,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Harvest client</source>
-        <translation>Harvest-asiakasohjelma</translation>
+        <source>Havecoin client</source>
+        <translation>Havecoin-asiakasohjelma</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Harvest network</source>
-        <translation><numerusform>%n aktiivinen yhteys Harvest-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Harvest-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to Havecoin network</source>
+        <translation><numerusform>%n aktiivinen yhteys Havecoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Havecoin-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -605,8 +605,8 @@ Osoite: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Harvest address or malformed URI parameters.</source>
-        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä Harvest-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Havecoin address or malformed URI parameters.</source>
+        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä Havecoin-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -728,8 +728,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Harvest can no longer continue safely and will quit.</source>
-        <translation>Virhe kohdattu. Harvest-asiakasohjelma ei voi enää jatkaa turvallisesti ja se suljetaan.</translation>
+        <source>A fatal error occurred. Havecoin can no longer continue safely and will quit.</source>
+        <translation>Virhe kohdattu. Havecoin-asiakasohjelma ei voi enää jatkaa turvallisesti ja se suljetaan.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Harvest address.</source>
-        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty Harvest-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Havecoin address.</source>
+        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty Havecoin-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Harvest-Qt</source>
-        <translation>Harvest-Qt</translation>
+        <source>Havecoin-Qt</source>
+        <translation>Havecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Harvest after logging in to the system.</source>
-        <translation>Käynnistä Harvest-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
+        <source>Automatically start Havecoin after logging in to the system.</source>
+        <translation>Käynnistä Havecoin-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Harvest on system login</source>
-        <translation>%Käynnistä Harvest-asiakasohjelma kirjautuessasi</translation>
+        <source>&amp;Start Havecoin on system login</source>
+        <translation>%Käynnistä Havecoin-asiakasohjelma kirjautuessasi</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1169,8 +1169,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Harvest client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Harvest-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
+        <source>Automatically open the Havecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa Havecoin-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Harvest network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Yhdistä Harvest-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n kautta).</translation>
+        <source>Connect to the Havecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Yhdistä Havecoin-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n kautta).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Harvest.</source>
-        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta Harvest-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Havecoin.</source>
+        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta Havecoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1321,8 +1321,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Harvest.</source>
-        <translation>Tämä asetus tulee voimaan vasta Harvest-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>This setting will take effect after restarting Havecoin.</source>
+        <translation>Tämä asetus tulee voimaan vasta Havecoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1340,8 +1340,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Harvest network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti Harvest-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Havecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti Havecoin-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1582,8 +1582,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Harvest-Qt help message to get a list with possible Harvest command-line options.</source>
-        <translation>Näytä Harvest-Qt:n avustusohje saadaksesi listan käytettävistä Harvestin komentokehotteen määritteistä.</translation>
+        <source>Show the Havecoin-Qt help message to get a list with possible Havecoin command-line options.</source>
+        <translation>Näytä Havecoin-Qt:n avustusohje saadaksesi listan käytettävistä Havecoinin komentokehotteen määritteistä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1602,13 +1602,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Harvest - Debug window</source>
-        <translation>Harvest - Debug-ikkuna</translation>
+        <source>Havecoin - Debug window</source>
+        <translation>Havecoin - Debug-ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Harvest Core</source>
-        <translation>Harvestin ydin</translation>
+        <source>Havecoin Core</source>
+        <translation>Havecoinin ydin</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1617,8 +1617,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Harvest debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa Harvest-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
+        <source>Open the Havecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa Havecoin-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1627,8 +1627,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Harvest RPC console.</source>
-        <translation>Tervetuloa Harvestin RPC-konsoliin.</translation>
+        <source>Welcome to the Havecoin RPC console.</source>
+        <translation>Tervetuloa Havecoinin RPC-konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1688,7 +1688,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Lähetä Harvesteja</translation>
+        <translation>Lähetä Havecoineja</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1821,8 +1821,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Harvest address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä Harvest-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Havecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Syötä Havecoin-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1921,8 +1921,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Harvest address</source>
-        <translation>VAROITUS: Epäkelpo Harvest-osoite</translation>
+        <source>WARNING: Invalid Havecoin address</source>
+        <translation>VAROITUS: Epäkelpo Havecoin-osoite</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1995,8 +1995,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Harvest address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä Harvest-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Havecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Syötä Havecoin-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2056,8 +2056,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Harvest address</source>
-        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän Harvest-osoitteen</translation>
+        <source>Sign the message to prove you own this Havecoin address</source>
+        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän Havecoin-osoitteen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2088,8 +2088,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Harvest address</source>
-        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä Harvest-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified Havecoin address</source>
+        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä Havecoin-osoitteella</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2099,8 +2099,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Harvest address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä Harvest-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Havecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Syötä Havecoin-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2109,8 +2109,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Harvest signature</source>
-        <translation>Syötä Harvest-allekirjoitus</translation>
+        <source>Enter Havecoin signature</source>
+        <translation>Syötä Havecoin-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2688,8 +2688,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Harvest version</source>
-        <translation>Harvestin versio</translation>
+        <source>Havecoin version</source>
+        <translation>Havecoinin versio</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2698,8 +2698,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or harvestd</source>
-        <translation>Syötä komento kohteeseen -server tai harvestd</translation>
+        <source>Send command to -server or havecoind</source>
+        <translation>Syötä komento kohteeseen -server tai havecoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2718,13 +2718,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: harvest.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: harvest.conf)</translation>
+        <source>Specify configuration file (default: havecoin.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: havecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: harvestd.pid)</source>
-        <translation>Määritä prosessitiedosto (oletus: harvest.pid)</translation>
+        <source>Specify pid file (default: havecoind.pid)</source>
+        <translation>Määritä prosessitiedosto (oletus: havecoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2741,13 +2741,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=harvestrpc
+rpcuser=havecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Havecoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2853,8 +2853,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Harvest will not work properly.</source>
-        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, Harvest ei toimi oikein.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Havecoin will not work properly.</source>
+        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, Havecoin ei toimi oikein.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3160,8 +3160,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. Harvest is shutting down.</source>
-        <translation>Käyttöönottotarkistus epäonnistui. Harvest-asiakasohjelma suljetaan.</translation>
+        <source>Initialization sanity check failed. Havecoin is shutting down.</source>
+        <translation>Käyttöönottotarkistus epäonnistui. Havecoin-asiakasohjelma suljetaan.</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -3225,13 +3225,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Harvest</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version Harvest-asiakasohjelmasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Havecoin</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version Havecoin-asiakasohjelmasta</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Harvest to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Harvest-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
+        <source>Wallet needed to be rewritten: restart Havecoin to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Havecoin-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3295,8 +3295,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. Harvest is probably already running.</source>
-        <translation>Ei voitu liittää %s tällä tietokoneella. Harvest-asiakasohjelma on jo ehkä päällä.</translation>
+        <source>Unable to bind to %s on this computer. Havecoin is probably already running.</source>
+        <translation>Ei voitu liittää %s tällä tietokoneella. Havecoin-asiakasohjelma on jo ehkä päällä.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3335,7 +3335,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Harvest is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Havecoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

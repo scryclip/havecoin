@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Harvest</source>
-        <translation>Vad du behöver veta om Harvest</translation>
+        <source>About Havecoin</source>
+        <translation>Vad du behöver veta om Havecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Harvest&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Harvest&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Havecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Havecoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2015-2017 The Harvest developers</source>
+Copyright © 2015-2017 The Havecoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2015-2017 The Harvest developers</translation>
+Copyright © 2015-2017 The Havecoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Harvest addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina Harvest adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your Havecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina Havecoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Harvest address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger Harvest adressen</translation>
+        <source>Sign a message to prove you own a Havecoin address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger Havecoin adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Harvest address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik Harvest adress</translation>
+        <source>Verify a message to ensure it was signed with a specified Havecoin address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik Havecoin adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Harvest will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Harvest plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>Havecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Havecoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Harvest</source>
-        <translation>Visa information om Harvest</translation>
+        <source>Show information about Havecoin</source>
+        <translation>Visa information om Havecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Harvest address</source>
-        <translation>Skicka coins till en Harvest adress</translation>
+        <source>Send coins to a Havecoin address</source>
+        <translation>Skicka coins till en Havecoin adress</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Harvest</source>
-        <translation>Modifiera konfigurations-alternativ för Harvest</translation>
+        <source>Modify configuration options for Havecoin</source>
+        <translation>Modifiera konfigurations-alternativ för Havecoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>Harvest</source>
-        <translation>Harvest</translation>
+        <source>Havecoin</source>
+        <translation>Havecoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Harvest</source>
-        <translation>&amp;Om Harvest</translation>
+        <source>&amp;About Havecoin</source>
+        <translation>&amp;Om Havecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Harvest client</source>
-        <translation>Harvest klient</translation>
+        <source>Havecoin client</source>
+        <translation>Havecoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Harvest network</source>
-        <translation><numerusform>%n aktiv anslutning till Harvest nätverket</numerusform><numerusform>%n aktiva anslutning till Harvest nätverket</numerusform></translation>
+        <source>%n active connection(s) to Havecoin network</source>
+        <translation><numerusform>%n aktiv anslutning till Havecoin nätverket</numerusform><numerusform>%n aktiva anslutning till Havecoin nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Harvest address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig Harvest adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Havecoin address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig Havecoin adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Harvest can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. Harvest kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. Havecoin can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. Havecoin kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1018,7 +1018,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna Harvest-adress</translation>
+        <translation>Namnet som kopplats till denna Havecoin-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1057,8 +1057,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Harvest address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig Harvest adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Havecoin address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig Havecoin adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Harvest-Qt</source>
-        <translation>Harvest-Qt</translation>
+        <source>Havecoin-Qt</source>
+        <translation>Havecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Harvest after logging in to the system.</source>
-        <translation>Starta Harvest automatiskt vid inloggning.</translation>
+        <source>Automatically start Havecoin after logging in to the system.</source>
+        <translation>Starta Havecoin automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Harvest on system login</source>
-        <translation>&amp;Starta Harvest vid inloggning</translation>
+        <source>&amp;Start Havecoin on system login</source>
+        <translation>&amp;Starta Havecoin vid inloggning</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Harvest client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Harvest klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the Havecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt Havecoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1174,8 +1174,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Harvest network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till Harvest nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the Havecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till Havecoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,8 +1249,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Harvest.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av Harvest.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Havecoin.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av Havecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1316,8 +1316,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Harvest.</source>
-        <translation>Inställningen börjar gälla efter omstart av Harvest.</translation>
+        <source>This setting will take effect after restarting Havecoin.</source>
+        <translation>Inställningen börjar gälla efter omstart av Havecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Harvest network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med Harvest nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Havecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med Havecoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1577,8 +1577,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Harvest-Qt help message to get a list with possible Harvest command-line options.</source>
-        <translation>Visa Harvest-Qt hjälp meddelandet för att få en lista över möjliga Harvest kommandoradsalternativ.</translation>
+        <source>Show the Havecoin-Qt help message to get a list with possible Havecoin command-line options.</source>
+        <translation>Visa Havecoin-Qt hjälp meddelandet för att få en lista över möjliga Havecoin kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1597,13 +1597,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Harvest - Debug window</source>
-        <translation>Harvest - Felsökningsfönster</translation>
+        <source>Havecoin - Debug window</source>
+        <translation>Havecoin - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Harvest Core</source>
-        <translation>Harvest Core</translation>
+        <source>Havecoin Core</source>
+        <translation>Havecoin Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,8 +1612,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Harvest debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Harvest felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the Havecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna Havecoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1622,8 +1622,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Harvest RPC console.</source>
-        <translation>Välkommen till Harvest RPC konsoll.</translation>
+        <source>Welcome to the Havecoin RPC console.</source>
+        <translation>Välkommen till Havecoin RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,8 +1816,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Harvest address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en Harvest adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Havecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en Havecoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1916,8 +1916,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Harvest address</source>
-        <translation>VARNING: Ogiltig Harvest adress</translation>
+        <source>WARNING: Invalid Havecoin address</source>
+        <translation>VARNING: Ogiltig Havecoin adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1990,8 +1990,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Harvest address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en Harvest adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Havecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en Havecoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2051,8 +2051,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Harvest address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna Harvest adressen</translation>
+        <source>Sign the message to prove you own this Havecoin address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna Havecoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2083,8 +2083,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Harvest address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna Harvest adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified Havecoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna Havecoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2094,8 +2094,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Harvest address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en Harvest adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Havecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en Havecoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2104,8 +2104,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Harvest signature</source>
-        <translation>Fyll i Harvest signatur</translation>
+        <source>Enter Havecoin signature</source>
+        <translation>Fyll i Havecoin signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2683,8 +2683,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Harvest version</source>
-        <translation>Harvest version</translation>
+        <source>Havecoin version</source>
+        <translation>Havecoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2693,8 +2693,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or harvestd</source>
-        <translation>Skicka kommando till -server eller harvestd</translation>
+        <source>Send command to -server or havecoind</source>
+        <translation>Skicka kommando till -server eller havecoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2713,13 +2713,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: harvest.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: harvest.conf)</translation>
+        <source>Specify configuration file (default: havecoin.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: havecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: harvestd.pid)</source>
-        <translation>Ange pid filen (standard harvestd.pid)</translation>
+        <source>Specify pid file (default: havecoind.pid)</source>
+        <translation>Ange pid filen (standard havecoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2736,13 +2736,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=harvestrpc
+rpcuser=havecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Havecoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2848,8 +2848,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Harvest will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. Harvest kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Havecoin will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. Havecoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3155,7 +3155,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. Harvest is shutting down.</source>
+        <source>Initialization sanity check failed. Havecoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3220,13 +3220,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Harvest</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av Harvest krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Havecoin</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av Havecoin krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Harvest to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om Harvest för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart Havecoin to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om Havecoin för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3290,8 +3290,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. Harvest is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. Harvest är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. Havecoin is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. Havecoin är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3330,7 +3330,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Harvest Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Harvest is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Havecoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Add/Edit Harvest Node</string>
+   <string>Add/Edit Havecoin Node</string>
   </property>
   <property name="modal">
    <bool>true</bool>

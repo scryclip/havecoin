@@ -67,7 +67,7 @@ struct MessageTableEntry
     }
 };
 
-/** Interface to Harvest Secure Messaging from Qt view code. */
+/** Interface to Havecoin Secure Messaging from Qt view code. */
 class MessageModel : public QAbstractTableModel
 {
     Q_OBJECT
