@@ -1024,7 +1024,7 @@ bool AppInit2(boost::thread_group& threadGroup)
         activeMasternode.ManageStatus();
     }
 
-    if(GetBoolArg("-mnconflock", false)) {
+    if(GetBoolArg("-mnconflock", true)) {
         LogPrintf("Locking Masternodes:\n");
         uint256 mnTxHash;
         BOOST_FOREACH(CMasternodeConfig::CMasternodeEntry mne, masternodeConfig.getEntries()) {
